@@ -1,0 +1,439 @@
+{
+    "formatVersion" : "v1.0",
+    "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+    "offerCode" : "AmazonEC2",
+    "version" : "20200508214716",
+    "publicationDate" : "2020-05-08T21:47:16Z",
+    "products" : {
+      "WUMXDGCE8BPN384M" : {
+        "sku" : "WUMXDGCE8BPN384M",
+        "productFamily" : "Compute Instance",
+        "attributes" : {
+          "servicecode" : "AmazonEC2",
+          "location" : "EU (Ireland)",
+          "locationType" : "AWS Region",
+          "instanceType" : "r5n.8xlarge",
+          "currentGeneration" : "Yes",
+          "instanceFamily" : "Memory optimized",
+          "vcpu" : "32",
+          "physicalProcessor" : "Intel Xeon Platinum 8259 (Cascade Lake)",
+          "clockSpeed" : "2.5 GHz",
+          "memory" : "256 GiB",
+          "storage" : "EBS only",
+          "networkPerformance" : "25 Gigabit",
+          "processorArchitecture" : "64-bit",
+          "tenancy" : "Shared",
+          "operatingSystem" : "Linux",
+          "licenseModel" : "No License required",
+          "usagetype" : "EU-BoxUsage:r5n.8xlarge",
+          "operation" : "RunInstances:0100",
+          "capacitystatus" : "Used",
+          "dedicatedEbsThroughput" : "5000 Mbps",
+          "ecu" : "NA",
+          "enhancedNetworkingSupported" : "No",
+          "intelAvxAvailable" : "No",
+          "intelAvx2Available" : "No",
+          "intelTurboAvailable" : "No",
+          "normalizationSizeFactor" : "64",
+          "preInstalledSw" : "SQL Ent",
+          "servicename" : "Amazon Elastic Compute Cloud"
+        }
+      },
+      "B9QWBFQZHCY7X3HM" : {
+        "sku" : "B9QWBFQZHCY7X3HM",
+        "productFamily" : "Compute Instance",
+        "attributes" : {
+          "servicecode" : "AmazonEC2",
+          "location" : "EU (Ireland)",
+          "locationType" : "AWS Region",
+          "instanceType" : "r5ad.2xlarge",
+          "currentGeneration" : "Yes",
+          "instanceFamily" : "Memory optimized",
+          "vcpu" : "8",
+          "physicalProcessor" : "AMD EPYC 7571",
+          "clockSpeed" : "2.5 GHz",
+          "memory" : "64 GiB",
+          "storage" : "1 x 300 NVMe SSD",
+          "networkPerformance" : "10 Gigabit",
+          "processorArchitecture" : "64-bit",
+          "tenancy" : "Shared",
+          "operatingSystem" : "Windows",
+          "licenseModel" : "No License required",
+          "usagetype" : "EU-Reservation:r5ad.2xlarge",
+          "operation" : "RunInstances:0006",
+          "capacitystatus" : "AllocatedCapacityReservation",
+          "dedicatedEbsThroughput" : "Up to 2120 Mbps",
+          "ecu" : "NA",
+          "enhancedNetworkingSupported" : "Yes",
+          "instancesku" : "ZR4V2JBYXNCCZXR3",
+          "intelAvxAvailable" : "No",
+          "intelAvx2Available" : "No",
+          "intelTurboAvailable" : "No",
+          "normalizationSizeFactor" : "16",
+          "preInstalledSw" : "SQL Std",
+          "processorFeatures" : "AVX; AVX2; AMD Turbo",
+          "servicename" : "Amazon Elastic Compute Cloud"
+        }
+      },
+      "F3DF6YW5FMU8MC5D" : {
+        "sku" : "F3DF6YW5FMU8MC5D",
+        "productFamily" : "Compute Instance",
+        "attributes" : {
+          "servicecode" : "AmazonEC2",
+          "location" : "EU (Ireland)",
+          "locationType" : "AWS Region",
+          "instanceType" : "i3en.24xlarge",
+          "currentGeneration" : "Yes",
+          "instanceFamily" : "Storage optimized",
+          "vcpu" : "96",
+          "physicalProcessor" : "Intel Xeon Platinum 8175 (Skylake)",
+          "clockSpeed" : "3.1 GHz",
+          "memory" : "768 GiB",
+          "storage" : "8 x 7500 NVMe SSD",
+          "networkPerformance" : "100 Gigabit",
+          "processorArchitecture" : "64-bit",
+          "tenancy" : "Dedicated",
+          "operatingSystem" : "Windows",
+          "licenseModel" : "No License required",
+          "usagetype" : "EU-DedicatedRes:i3en.24xlarge",
+          "operation" : "RunInstances:0006",
+          "capacitystatus" : "AllocatedCapacityReservation",
+          "dedicatedEbsThroughput" : "14000 Mbps",
+          "ecu" : "337",
+          "enhancedNetworkingSupported" : "Yes",
+          "instancesku" : "JADG3S3BBKCFY47S",
+          "intelAvxAvailable" : "Yes",
+          "intelAvx2Available" : "Yes",
+          "intelTurboAvailable" : "Yes",
+          "normalizationSizeFactor" : "192",
+          "preInstalledSw" : "SQL Std",
+          "processorFeatures" : "Intel AVX; Intel AVX2; Intel AVX512; Intel Turbo",
+          "servicename" : "Amazon Elastic Compute Cloud"
+        }
+      },
+      "4CR6D9AX3JUCVGKK" : {
+        "sku" : "4CR6D9AX3JUCVGKK",
+        "productFamily" : "Compute Instance",
+        "attributes" : {
+          "servicecode" : "AmazonEC2",
+          "location" : "EU (Ireland)",
+          "locationType" : "AWS Region",
+          "instanceType" : "m1.large",
+          "currentGeneration" : "No",
+          "instanceFamily" : "General purpose",
+          "vcpu" : "2",
+          "physicalProcessor" : "Intel Xeon Family",
+          "memory" : "7.5 GiB",
+          "storage" : "2 x 420 SSD",
+          "networkPerformance" : "Moderate",
+          "processorArchitecture" : "64-bit",
+          "tenancy" : "Shared",
+          "operatingSystem" : "Windows",
+          "licenseModel" : "Bring your own license",
+          "usagetype" : "EU-BoxUsage:m1.large",
+          "operation" : "RunInstances:0800",
+          "capacitystatus" : "Used",
+          "ecu" : "4",
+          "enhancedNetworkingSupported" : "No",
+          "intelAvxAvailable" : "No",
+          "intelAvx2Available" : "No",
+          "intelTurboAvailable" : "No",
+          "normalizationSizeFactor" : "4",
+          "preInstalledSw" : "NA",
+          "servicename" : "Amazon Elastic Compute Cloud"
+        }
+      },
+      "H9A9G53YDSKUZXPU" : {
+        "sku" : "H9A9G53YDSKUZXPU",
+        "productFamily" : "Compute Instance",
+        "attributes" : {
+          "servicecode" : "AmazonEC2",
+          "location" : "EU (Ireland)",
+          "locationType" : "AWS Region",
+          "instanceType" : "x1e.xlarge",
+          "currentGeneration" : "Yes",
+          "instanceFamily" : "Memory optimized",
+          "vcpu" : "4",
+          "physicalProcessor" : "High Frequency Intel Xeon E7-8880 v3 (Haswell)",
+          "clockSpeed" : "2.3 GHz",
+          "memory" : "122 GiB",
+          "storage" : "1 x 120 SSD",
+          "networkPerformance" : "Up to 10 Gigabit",
+          "processorArchitecture" : "64-bit",
+          "tenancy" : "Dedicated",
+          "operatingSystem" : "Linux",
+          "licenseModel" : "No License required",
+          "usagetype" : "EU-UnusedDed:x1e.xlarge",
+          "operation" : "RunInstances:0100",
+          "capacitystatus" : "UnusedCapacityReservation",
+          "dedicatedEbsThroughput" : "500 Mbps",
+          "ecu" : "12",
+          "enhancedNetworkingSupported" : "Yes",
+          "instancesku" : "BZCNQCWU5XA2AGR8",
+          "intelAvxAvailable" : "Yes",
+          "intelAvx2Available" : "Yes",
+          "intelTurboAvailable" : "No",
+          "normalizationSizeFactor" : "8",
+          "preInstalledSw" : "SQL Ent",
+          "processorFeatures" : "Intel AVX; Intel AVX2",
+          "servicename" : "Amazon Elastic Compute Cloud"
+        }
+      }
+    },
+      "terms" : {
+        "OnDemand" : {
+          "S25N2BEFE3CSAAXK" : {
+            "S25N2BEFE3CSAAXK.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "S25N2BEFE3CSAAXK",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "S25N2BEFE3CSAAXK.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "S25N2BEFE3CSAAXK.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$6.048 per On Demand Windows r5d.12xlarge Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "6.0480000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "4CR6D9AX3JUCVGKK" : {
+            "4CR6D9AX3JUCVGKK.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "4CR6D9AX3JUCVGKK",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "4CR6D9AX3JUCVGKK.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "4CR6D9AX3JUCVGKK.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$0.19 per On Demand Windows BYOL m1.large Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "0.1900000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "H9A9G53YDSKUZXPU" : {
+            "H9A9G53YDSKUZXPU.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "H9A9G53YDSKUZXPU",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "H9A9G53YDSKUZXPU.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "H9A9G53YDSKUZXPU.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$2.60 per Dedicated Unused Reservation Linux with SQL Server Enterprise x1e.xlarge Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "2.6000000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "WKENT2386UV6FTAC" : {
+            "WKENT2386UV6FTAC.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "WKENT2386UV6FTAC",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "WKENT2386UV6FTAC.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "WKENT2386UV6FTAC.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$0.00 per Windows with SQL Server Enterprise z1d.2xlarge Dedicated Host Instance hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "0.0000000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "F3DF6YW5FMU8MC5D" : {
+            "F3DF6YW5FMU8MC5D.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "F3DF6YW5FMU8MC5D",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "F3DF6YW5FMU8MC5D.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "F3DF6YW5FMU8MC5D.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$0.00 per Dedicated Reservation Windows with SQL Std i3en.24xlarge Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "0.0000000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "G8262NF2ZBN26ZUZ" : {
+            "G8262NF2ZBN26ZUZ.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "G8262NF2ZBN26ZUZ",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "G8262NF2ZBN26ZUZ.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "G8262NF2ZBN26ZUZ.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$0.496 per On Demand Windows with SQL Web c5n.xlarge Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "0.4960000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "3UAUK9EVSM4N9CPT" : {
+            "3UAUK9EVSM4N9CPT.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "3UAUK9EVSM4N9CPT",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "3UAUK9EVSM4N9CPT.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "3UAUK9EVSM4N9CPT.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$7.435 per Dedicated Linux r5ad.24xlarge Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "7.4350000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "5A4MGEK4QSD473RV" : {
+            "5A4MGEK4QSD473RV.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "5A4MGEK4QSD473RV",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "5A4MGEK4QSD473RV.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "5A4MGEK4QSD473RV.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$0.02 per GB - EU (Ireland) data transfer to EU (Germany)",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "GB",
+                  "pricePerUnit" : {
+                    "USD" : "0.0200000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "KUSJXVUZ5FRW9RU3" : {
+            "KUSJXVUZ5FRW9RU3.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "KUSJXVUZ5FRW9RU3",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "KUSJXVUZ5FRW9RU3.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "KUSJXVUZ5FRW9RU3.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$0.00 per Dedicated Reservation Windows with SQL Server Enterprise g4dn.16xlarge Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "0.0000000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "WUMXDGCE8BPN384M" : {
+            "WUMXDGCE8BPN384M.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "WUMXDGCE8BPN384M",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "WUMXDGCE8BPN384M.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "WUMXDGCE8BPN384M.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$14.672 per On Demand Linux with SQL Server Enterprise r5n.8xlarge Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "14.6720000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "XMY2PZS9T2RPF2G4" : {
+            "XMY2PZS9T2RPF2G4.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "XMY2PZS9T2RPF2G4",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "XMY2PZS9T2RPF2G4.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "XMY2PZS9T2RPF2G4.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$0.00 per Windows with SQL Server Enterprise c5.24xlarge Dedicated Host Instance hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "0.0000000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          },
+          "B9QWBFQZHCY7X3HM" : {
+            "B9QWBFQZHCY7X3HM.JRTCKXETXF" : {
+              "offerTermCode" : "JRTCKXETXF",
+              "sku" : "B9QWBFQZHCY7X3HM",
+              "effectiveDate" : "2020-05-01T00:00:00Z",
+              "priceDimensions" : {
+                "B9QWBFQZHCY7X3HM.JRTCKXETXF.6YS6EN2CT7" : {
+                  "rateCode" : "B9QWBFQZHCY7X3HM.JRTCKXETXF.6YS6EN2CT7",
+                  "description" : "$0.00 per Reservation Windows with SQL Std r5ad.2xlarge Instance Hour",
+                  "beginRange" : "0",
+                  "endRange" : "Inf",
+                  "unit" : "Hrs",
+                  "pricePerUnit" : {
+                    "USD" : "0.0000000000"
+                  },
+                  "appliesTo" : [ ]
+                }
+              },
+              "termAttributes" : { }
+            }
+          }
+        }
+    }
+}
